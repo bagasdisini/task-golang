@@ -2,7 +2,7 @@ package database
 
 import (
 	"backend/models"
-	"backend/pkg/mysql"
+	mysql "backend/pkg/mysql"
 	"fmt"
 )
 

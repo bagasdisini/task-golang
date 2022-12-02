@@ -2,7 +2,7 @@ package main
 
 import (
 	"backend/database"
-	"backend/pkg/mysql"
+	mysql "backend/pkg/mysql"
 	"backend/routes"
 	"fmt"
 	"net/http"
